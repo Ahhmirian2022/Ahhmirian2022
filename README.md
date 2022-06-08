@@ -1,12 +1,9 @@
 #  sobre mim
-- 👋 ala eu sou @Ahhmirian2022
-- 👀
--  I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Olá eu sou @Ahhmirian2022
+- O meu email é b.miriam@escola.pr.gov.br
+- 👀Eu estou interessado em aprender a programar novas linguagens.
+-- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Ahhmirian2022/Ahhmirian2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
